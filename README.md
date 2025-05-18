@@ -75,8 +75,25 @@ _Your daily dose of inspiration will appear here..._
 
 ### 📊 GitHub Stats
 
+<!-- Stats dan Top Languages -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=goonesmile&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=default&hide_border=true" width="48%"/>
+</p>
+
+<!-- Streak Stats - Full Width -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=goonesmile&theme=default&hide_border=true" width="100%" />
+</p>
+
+<!-- Contribution Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goonesmile&theme=flat&no-frame=true&margin-w=10&column=8" />
+</p>
+
+<!-- GitHub Contribution Grid -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goonesmile&theme=github-compact&hide_border=true" />
 </p>
 
 ---
