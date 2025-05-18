@@ -75,12 +75,6 @@ _Your daily dose of inspiration will appear here..._
 
 ### 📊 GitHub Stats
 
-<!-- Stats dan Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p>
-
 <!-- Streak Stats - Full Width -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=goonesmile&theme=github-dark&hide_border=true" width="100%" />
