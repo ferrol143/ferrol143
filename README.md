@@ -87,11 +87,11 @@ _Your daily dose of inspiration will appear here..._
 
 <!-- GitHub Contribution Graph with Snake Animation -->
 <p align="center">
-  <img 
+  [<img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=goonesmile&theme=github-dark&hide_border=true&mode=snake" 
     width="100%" 
     alt="GitHub Contribution Graph with Snake Animation" 
-  />
+  />](https://github.com/curj/github-contribution-grid-snake)
 </p>
 
 
