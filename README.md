@@ -76,11 +76,6 @@ _Your daily dose of inspiration will appear here..._
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=default&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=goonesmile&theme=default&hide_border=true" />
 </p>
 
@@ -103,5 +98,3 @@ _Your daily dose of inspiration will appear here..._
 </p>
 
 ---
-
-> *“Code is not just about logic, it's about creativity.”* – **Ferrol Azki**
