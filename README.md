@@ -12,6 +12,13 @@
 
 ---
 
+### 📖 Quote Hari Ini
+<!--START:QUOTE-->
+_Quote harian akan muncul di sini..._
+<!--END:QUOTE-->
+
+---
+
 ### 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -38,6 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=default&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=default&hide_border=true" width="48%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=goonesmile&theme=default&hide_border=true" />
+</p>
 
 ---
 
@@ -53,7 +63,3 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 </p>
-
----
-
-> *“Code is not just about logic, it's about creativity.”* – Ferrol Azki
