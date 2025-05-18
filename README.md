@@ -85,10 +85,15 @@ _Your daily dose of inspiration will appear here..._
   <img src="https://github-profile-trophy.vercel.app/?username=goonesmile&theme=github-dark&no-frame=true&margin-w=10&column=8" />
 </p>
 
-<!-- GitHub Contribution Grid -->
+<!-- GitHub Contribution Graph with Snake Animation -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goonesmile&theme=github-compact&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=goonesmile&theme=github-dark&hide_border=true&mode=snake" 
+    width="100%" 
+    alt="GitHub Contribution Graph with Snake Animation" 
+  />
 </p>
+
 
 ---
 
