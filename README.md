@@ -77,8 +77,8 @@ _Your daily dose of inspiration will appear here..._
 
 <!-- Stats dan Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferrolazkimashudi&show_icons=true&theme=github-dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrolazkimashudi&layout=compact&theme=github-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
 
 <!-- Streak Stats - Full Width -->
