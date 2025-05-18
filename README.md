@@ -1,6 +1,6 @@
 <!-- Profil Header -->
 <h1 align="center">Hi there 👋, I'm Ferrol Azki</h1>
-<p align="center">🚀 Software Engineer | 🎓 Fast Learner | 🛠️ Building Solutions That Matter</p>
+<p align="center">🚀 Software Engineer | 🛠️ Bridging Innovation & Stability Through Backend Architecture</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Selamat%20Datang!%20👨‍💻&fontSize=30&fontAlign=50&animation=fadeIn" />
