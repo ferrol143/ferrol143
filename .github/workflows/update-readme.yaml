@@ -1,0 +1,28 @@
+name: Update README Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Update setiap tengah malam UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Daily Quote
+        run: |
+          curl -s https://zenquotes.io/api/today | jq -r '.[0] | "> _\"\(.q)_\"  \n> — **\(.a)**"' > quote.md
+
+      - name: Update README
+        run: |
+          awk '/<!--START:QUOTE-->/ {print; system("cat quote.md"); found=1; next}
+               /<!--END:QUOTE-->/ {found=0}
+               !found' README.md > tmp.md && mv tmp.md README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✨ update daily quote"
