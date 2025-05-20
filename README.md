@@ -12,13 +12,6 @@
 
 ---
 
-### 📖 Quote of the Day
-<!--START:QUOTE-->
-_Your daily dose of inspiration will appear here..._
-<!--END:QUOTE-->
-
----
-
 ### 🧰 Tech Stack & Tools
 
 #### 💻 Programming Languages
